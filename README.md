@@ -1,7 +1,7 @@
 TechNova Solutions: Linux Server Environment Setup 🚀
 Student Name: Fatima Sarwar
 Role: Linux System Administrator
-Environment: Ubuntu 22.04.5 LTS (Oracle VM VirtualBox)
+Environment: Ubuntu 22.04.5 LTS (Oracle VM VirtualBox)  
 
 
 📝 Project Scenario
